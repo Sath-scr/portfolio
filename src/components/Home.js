@@ -7,7 +7,7 @@ const Home = () => {
     <section id="home" className="home">
       <div className="home-left">
         <h2>Hello, It's Me</h2>
-        <h1>H R Pratham</h1>
+        <h1>C S sathvik Gowda</h1>
         <h3>And I'm a <span>Graphic Designer</span></h3>
         <p>My interests lie in developing efficient algorithms, building scalable web applications, and exploring the realms of artificial intelligence.
 </p>
