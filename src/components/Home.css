@@ -1,0 +1,55 @@
+.home {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1e1e2f;
+  color: white;
+  padding: 80px 50px;
+  flex-wrap: wrap;
+}
+
+.home-left {
+  max-width: 600px;
+}
+
+.home-left h2, .home-left h3 {
+  color: #ccc;
+}
+
+.home-left h1 {
+  font-size: 48px;
+  color: #fff;
+}
+
+.home-left h3 span {
+  color: #0ff;
+}
+
+.social-icons i {
+  color: #0ff;
+  margin-right: 15px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 10px 25px;
+  border: none;
+  background: #0ff;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 25px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #0cc;
+}
+
+.home-right .profile-img {
+  width: 300px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px #0ff;
+}

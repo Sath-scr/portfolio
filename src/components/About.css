@@ -1,0 +1,30 @@
+.about {
+  background-color: #28293e;
+  color: white;
+  padding: 60px 50px;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 36px;
+}
+
+.about h2 span {
+  color: #0ff;
+}
+
+.about p {
+  max-width: 600px;
+  margin: auto;
+  line-height: 1.6;
+  color: #ccc;
+}
+
+.about .btn {
+  margin-top: 20px;
+  background-color: #0ff;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 25px;
+  cursor: pointer;
+}
